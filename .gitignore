@@ -8,13 +8,8 @@ logs
 *.seed
 
 node_modules
-coverage
-.nyc_output
 
 .DS_Store
-yarn.lock
-coverage.lcov
-pnpm-lock.yaml
 
 .idea
 .history

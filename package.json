@@ -1,0 +1,14 @@
+{
+  "name": "node-article-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "vercel-build": "echo hello"
+  },
+  "dependencies": {
+    "@extractus/article-extractor": "latest",
+    "express": "latest"
+  }
+}
