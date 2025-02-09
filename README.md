@@ -16,4 +16,18 @@ npm start
 
 Open `http://localhost:3100/?url=https://dev.to/ndaidong/how-to-make-your-mongodb-container-more-secure-1646` to see the result.
 
+
+Vercel deployment:
+
+```bash
+# install vercel
+npm i -g vercel
+
+# login to vercel
+vercel
+
+# deploy
+vercel --prod
+```
+
 ---
